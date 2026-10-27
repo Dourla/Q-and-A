@@ -1,0 +1,20 @@
+{
+  "name": "Bible Answers — బైబిల్ ప్రశ్నలు & జవాబులు",
+  "short_name": "Bible Answers",
+  "description": "662 Telugu questions and answers with Bible references — 39 themes, 8 groups. Works offline.",
+  "lang": "te",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "/bible-answers/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "background_color": "#e9eee8",
+  "theme_color": "#14272b",
+  "categories": ["books", "education", "reference"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
